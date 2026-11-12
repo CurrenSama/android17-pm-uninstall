@@ -1,5 +1,3 @@
-# android17-pm-uninstall
-
 # Android 17 起 `pm uninstall --user 0` 无法卸载系统应用的根因与绕过
 
 > 适用版本：Android 17（API 37）及以上。
